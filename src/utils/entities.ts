@@ -12,6 +12,3 @@ export interface Specimen {
   reservePrice?: number;
   buyers?: Buyer[];
 }
-
-export type NoWinner = typeof undefined;
-
