@@ -20,7 +20,6 @@
     return isNot;
   };
 }
-
 {
   /**
    * @param {number} x
