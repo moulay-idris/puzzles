@@ -1,2 +1,5 @@
-# puzzles
-this repo have a list of puzzles.
+requirement:
+
+node: 12.0.0
+npm: 6.9.0
+
